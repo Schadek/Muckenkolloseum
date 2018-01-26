@@ -8,6 +8,7 @@ public class Sphinx_UE4_DemoTarget : TargetRules
 	public Sphinx_UE4_DemoTarget(TargetInfo Target) : base(Target)
     {
 		Type = TargetType.Game;
+        bUsesSteam = true;
         ExtraModuleNames.AddRange(new string[] { "Sphinx_UE4_Demo" });
     }
 }
