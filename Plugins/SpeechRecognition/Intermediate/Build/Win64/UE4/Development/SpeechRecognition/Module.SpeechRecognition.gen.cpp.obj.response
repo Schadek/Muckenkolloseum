@@ -12,7 +12,6 @@
 /Ot
 /Ob2
 /errorReport:prompt
-/Z7
 /MD
 /bigobj
 /fp:fast
@@ -293,8 +292,9 @@
 /DNETWORKREPLAYSTREAMING_API=
 /DAUDIOMIXER_API=
 /D_HAS_EXCEPTIONS=0
-"D:\Portfolio\Muckenkollosseum\Muckenkolloseum\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4\Development\SpeechRecognition\Module.SpeechRecognition.cpp"
-/Fo"D:\Portfolio\Muckenkollosseum\Muckenkolloseum\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4\Development\SpeechRecognition\Module.SpeechRecognition.cpp.obj"
+/D_HAS_EXCEPTIONS=0
+"D:\Portfolio\Muckenkollosseum\Muckenkolloseum\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4\Development\SpeechRecognition\Module.SpeechRecognition.gen.cpp"
+/Fo"D:\Portfolio\Muckenkollosseum\Muckenkolloseum\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4\Development\SpeechRecognition\Module.SpeechRecognition.gen.cpp.obj"
 /TP
 /GR-
 /W4
